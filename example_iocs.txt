@@ -1,0 +1,17 @@
+# Archivo de ejemplo - un IOC por línea, las líneas con # son comentarios
+
+# IPs
+1.1.1.1
+8.8.8.8
+185.220.101.45
+
+# Dominios
+google.com
+malware-test.example.com
+
+# Hashes (MD5 / SHA1 / SHA256)
+44d88612fea8a8f36de82e1278abb02f
+3395856ce81f2b7382dee72602f798b642f14d00
+
+# URLs
+https://google.com
